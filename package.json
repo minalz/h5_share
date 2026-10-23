@@ -1,0 +1,12 @@
+{
+  "name": "moments-image-maker",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node scripts/build-static.js",
+    "check": "node --check app.js && node --check detail-store.js && node --check detail-page.js && node --check moments-view.js && node --check profile-cache.js && node --check server.js && node --check wechat-auth.js && node --check scripts/build-avatar-library.js && node --check scripts/build-static.js",
+    "test": "node tests/test-app.js && node tests/test-likes.js && node tests/test-avatar-ratios.js && node tests/test-avatar.js && node tests/test-profile-cache.js && node tests/test-profile-integration.js && node --test tests/test-moments-view.js tests/test-detail-store.js tests/test-detail-page.js tests/test-startup.js && node tests/test-wechat-auth.js",
+    "avatars:check": "node scripts/build-avatar-library.js --validate"
+  }
+}

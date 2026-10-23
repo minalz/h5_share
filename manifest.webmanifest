@@ -1,0 +1,11 @@
+{
+  "name": "朋友圈详情",
+  "short_name": "详情",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#efefef",
+  "theme_color": "#efefef",
+  "lang": "zh-CN"
+}

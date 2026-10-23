@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#efefef">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="详情">
+  <meta name="color-scheme" content="light">
+  <meta name="format-detection" content="telephone=no">
+  <title>详情</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css?v=20261022-2">
+  <script src="detail-store.js?v=20261022-2" defer></script>
+  <script src="moments-view.js?v=20261022-2" defer></script>
+  <script src="detail-page.js?v=20261022-2" defer></script>
+  <style>
+    .detail-state{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:32px 24px;text-align:center;color:#777;font-size:15px;line-height:1.6}
+    .detail-state h1{margin:0;color:#191919;font-size:21px;font-weight:600}
+    .detail-state p{max-width:290px;margin:0}
+    .detail-state a{display:block;margin-top:8px;padding:10px 22px;border-radius:6px;background:#07c160;color:#fff;font-size:16px}
+  </style>
+</head>
+<body class="viewing-detail">
+  <section id="resultPage" aria-label="朋友圈详情"><div id="momentsRoot"><div class="detail-state" role="status">正在载入详情…</div></div></section>
+  <dialog id="resultMenu" aria-label="详情操作"><button id="menuBack">返回配置</button><button id="menuCancel">取消</button></dialog>
+  <noscript><style>#resultPage{display:none}</style><div class="detail-state"><p>请启用 JavaScript 后查看详情。</p><a href="index.html">返回配置</a></div></noscript>
+</body>
+</html>

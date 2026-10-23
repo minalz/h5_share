@@ -1,0 +1,27 @@
+node_modules/
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Generated development output and temporary files
+docs/previews/
+coverage/
+dist/
+.h5-static-build-*/
+.tmp/
+tmp/
+*.log
+npm-debug.log*
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini

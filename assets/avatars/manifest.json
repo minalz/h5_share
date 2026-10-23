@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "women-0",
+    "category": "female",
+    "path": "assets/avatars/women-0.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-1",
+    "category": "female",
+    "path": "assets/avatars/women-1.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-2",
+    "category": "female",
+    "path": "assets/avatars/women-2.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-3",
+    "category": "female",
+    "path": "assets/avatars/women-3.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-4",
+    "category": "female",
+    "path": "assets/avatars/women-4.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-5",
+    "category": "female",
+    "path": "assets/avatars/women-5.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 250,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-6",
+    "category": "female",
+    "path": "assets/avatars/women-6.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-7",
+    "category": "female",
+    "path": "assets/avatars/women-7.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-8",
+    "category": "female",
+    "path": "assets/avatars/women-8.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-9",
+    "category": "female",
+    "path": "assets/avatars/women-9.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-10",
+    "category": "female",
+    "path": "assets/avatars/women-10.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 501,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-11",
+    "category": "female",
+    "path": "assets/avatars/women-11.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-12",
+    "category": "female",
+    "path": "assets/avatars/women-12.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-13",
+    "category": "female",
+    "path": "assets/avatars/women-13.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-14",
+    "category": "female",
+    "path": "assets/avatars/women-14.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-15",
+    "category": "female",
+    "path": "assets/avatars/women-15.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 752,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-16",
+    "category": "female",
+    "path": "assets/avatars/women-16.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-17",
+    "category": "female",
+    "path": "assets/avatars/women-17.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-18",
+    "category": "female",
+    "path": "assets/avatars/women-18.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-19",
+    "category": "female",
+    "path": "assets/avatars/women-19.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-20",
+    "category": "female",
+    "path": "assets/avatars/women-20.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 1003,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-21",
+    "category": "female",
+    "path": "assets/avatars/women-21.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-22",
+    "category": "female",
+    "path": "assets/avatars/women-22.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-23",
+    "category": "female",
+    "path": "assets/avatars/women-23.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-24",
+    "category": "female",
+    "path": "assets/avatars/women-24.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-a.png",
+    "sourceSha256": "7b3492506b86dff3c7f15f8422b1d02e7bce80106e1ad861e2e309ea55c39f91",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-25",
+    "category": "female",
+    "path": "assets/avatars/women-25.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-26",
+    "category": "female",
+    "path": "assets/avatars/women-26.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-27",
+    "category": "female",
+    "path": "assets/avatars/women-27.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-28",
+    "category": "female",
+    "path": "assets/avatars/women-28.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-29",
+    "category": "female",
+    "path": "assets/avatars/women-29.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 0,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-30",
+    "category": "female",
+    "path": "assets/avatars/women-30.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 250,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-31",
+    "category": "female",
+    "path": "assets/avatars/women-31.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-32",
+    "category": "female",
+    "path": "assets/avatars/women-32.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-33",
+    "category": "female",
+    "path": "assets/avatars/women-33.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-34",
+    "category": "female",
+    "path": "assets/avatars/women-34.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 250,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-35",
+    "category": "female",
+    "path": "assets/avatars/women-35.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 501,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-36",
+    "category": "female",
+    "path": "assets/avatars/women-36.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-37",
+    "category": "female",
+    "path": "assets/avatars/women-37.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-38",
+    "category": "female",
+    "path": "assets/avatars/women-38.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-39",
+    "category": "female",
+    "path": "assets/avatars/women-39.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 501,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-40",
+    "category": "female",
+    "path": "assets/avatars/women-40.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 752,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-41",
+    "category": "female",
+    "path": "assets/avatars/women-41.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-42",
+    "category": "female",
+    "path": "assets/avatars/women-42.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-43",
+    "category": "female",
+    "path": "assets/avatars/women-43.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-44",
+    "category": "female",
+    "path": "assets/avatars/women-44.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 752,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-45",
+    "category": "female",
+    "path": "assets/avatars/women-45.jpg",
+    "width": 250,
+    "height": 250,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 0,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 1003,
+      "width": 250,
+      "height": 250
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-46",
+    "category": "female",
+    "path": "assets/avatars/women-46.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 1,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 250,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-47",
+    "category": "female",
+    "path": "assets/avatars/women-47.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 2,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 501,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-48",
+    "category": "female",
+    "path": "assets/avatars/women-48.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 3,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 752,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "women-49",
+    "category": "female",
+    "path": "assets/avatars/women-49.jpg",
+    "width": 251,
+    "height": 251,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-female-b.png",
+    "sourceSha256": "0e1057c4cf6fe60f87d574d6bbf1992d7948c17ddd98e34900fddb6477e0cd20",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 5,
+      "column": 4,
+      "row": 4
+    },
+    "sourceCrop": {
+      "left": 1003,
+      "top": 1003,
+      "width": 251,
+      "height": 251
+    },
+    "sourceDimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-0",
+    "category": "male",
+    "path": "assets/avatars/men-0.jpg",
+    "width": 395,
+    "height": 395,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 0,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 1,
+      "width": 395,
+      "height": 395
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-1",
+    "category": "male",
+    "path": "assets/avatars/men-1.jpg",
+    "width": 396,
+    "height": 396,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 1,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 395,
+      "top": 0,
+      "width": 396,
+      "height": 396
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-2",
+    "category": "male",
+    "path": "assets/avatars/men-2.jpg",
+    "width": 395,
+    "height": 395,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 2,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 791,
+      "top": 1,
+      "width": 395,
+      "height": 395
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-3",
+    "category": "male",
+    "path": "assets/avatars/men-3.jpg",
+    "width": 396,
+    "height": 396,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 3,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 1186,
+      "top": 0,
+      "width": 396,
+      "height": 396
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-4",
+    "category": "male",
+    "path": "assets/avatars/men-4.jpg",
+    "width": 396,
+    "height": 396,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 4,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 1582,
+      "top": 0,
+      "width": 396,
+      "height": 396
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-5",
+    "category": "male",
+    "path": "assets/avatars/men-5.jpg",
+    "width": 395,
+    "height": 395,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 0,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 398,
+      "width": 395,
+      "height": 395
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-6",
+    "category": "male",
+    "path": "assets/avatars/men-6.jpg",
+    "width": 396,
+    "height": 396,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 1,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 395,
+      "top": 398,
+      "width": 396,
+      "height": 396
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-7",
+    "category": "male",
+    "path": "assets/avatars/men-7.jpg",
+    "width": 395,
+    "height": 395,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 2,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 791,
+      "top": 398,
+      "width": 395,
+      "height": 395
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-8",
+    "category": "male",
+    "path": "assets/avatars/men-8.jpg",
+    "width": 396,
+    "height": 396,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 3,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 1186,
+      "top": 398,
+      "width": 396,
+      "height": 396
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "men-9",
+    "category": "male",
+    "path": "assets/avatars/men-9.jpg",
+    "width": 396,
+    "height": 396,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-male.png",
+    "sourceSha256": "81f19cbccc1943d40a325ec3edfad8ebe2f95842c73e9f229dbfab2e7ef033fc",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 2,
+      "column": 4,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 1582,
+      "top": 398,
+      "width": 396,
+      "height": 396
+    },
+    "sourceDimensions": {
+      "width": 1978,
+      "height": 795
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "daily-0",
+    "category": "landscape",
+    "path": "assets/avatars/daily-0.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-1",
+    "category": "landscape",
+    "path": "assets/avatars/daily-1.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-2",
+    "category": "landscape",
+    "path": "assets/avatars/daily-2.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-3",
+    "category": "landscape",
+    "path": "assets/avatars/daily-3.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-4",
+    "category": "landscape",
+    "path": "assets/avatars/daily-4.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-5",
+    "category": "landscape",
+    "path": "assets/avatars/daily-5.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 280,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-6",
+    "category": "landscape",
+    "path": "assets/avatars/daily-6.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 280,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-7",
+    "category": "landscape",
+    "path": "assets/avatars/daily-7.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 280,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-8",
+    "category": "landscape",
+    "path": "assets/avatars/daily-8.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 280,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-9",
+    "category": "landscape",
+    "path": "assets/avatars/daily-9.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 280,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-10",
+    "category": "landscape",
+    "path": "assets/avatars/daily-10.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-11",
+    "category": "landscape",
+    "path": "assets/avatars/daily-11.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-12",
+    "category": "landscape",
+    "path": "assets/avatars/daily-12.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-13",
+    "category": "landscape",
+    "path": "assets/avatars/daily-13.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-14",
+    "category": "landscape",
+    "path": "assets/avatars/daily-14.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-15",
+    "category": "landscape",
+    "path": "assets/avatars/daily-15.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 841,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-16",
+    "category": "landscape",
+    "path": "assets/avatars/daily-16.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 841,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-17",
+    "category": "landscape",
+    "path": "assets/avatars/daily-17.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 841,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-18",
+    "category": "landscape",
+    "path": "assets/avatars/daily-18.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 841,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "daily-19",
+    "category": "landscape",
+    "path": "assets/avatars/daily-19.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-landscape.png",
+    "sourceSha256": "446196b5971d9183c9d7855024b645400e810eac71f97471ea83acb90b9bbb6a",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 841,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional China-themed scenery; not a photograph of a verified location."
+  },
+  {
+    "id": "cartoon-0",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-0.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-1",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-1.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-2",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-2.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-3",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-3.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-4",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-4.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 0
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 0,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-5",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-5.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 280,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-6",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-6.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 280,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-7",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-7.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 280,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-8",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-8.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 280,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-9",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-9.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 1
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 280,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-10",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-10.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-11",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-11.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-12",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-12.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-13",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-13.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-14",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-14.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 2
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 561,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-15",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-15.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 0,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 0,
+      "top": 841,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-16",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-16.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 1,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 280,
+      "top": 841,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-17",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-17.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 2,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 560,
+      "top": 841,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-18",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-18.jpg",
+    "width": 280,
+    "height": 280,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 3,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 841,
+      "top": 841,
+      "width": 280,
+      "height": 280
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  },
+  {
+    "id": "cartoon-19",
+    "category": "cartoon",
+    "path": "assets/avatars/cartoon-19.jpg",
+    "width": 281,
+    "height": 281,
+    "generated": true,
+    "theme": "China",
+    "fictional": true,
+    "source": "Generated for this project with OpenAI image generation",
+    "sourceSheet": "china-cartoon.png",
+    "sourceSha256": "629a11ea86a39615423011be2e85a7e35c40c577d850af76feca14f366023755",
+    "sourceGrid": {
+      "columns": 5,
+      "rows": 4,
+      "column": 4,
+      "row": 3
+    },
+    "sourceCrop": {
+      "left": 1121,
+      "top": 841,
+      "width": 281,
+      "height": 281
+    },
+    "sourceDimensions": {
+      "width": 1402,
+      "height": 1122
+    },
+    "note": "Fictional generated character; not a real person or a nationality determination."
+  }
+]

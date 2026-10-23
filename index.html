@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#efefef">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="详情">
+  <meta name="color-scheme" content="light">
+  <meta name="format-detection" content="telephone=no">
+  <title>图文集赞</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css?v=20261022-2">
+  <script src="profile-cache.js?v=20261022-2" defer></script>
+  <script src="detail-store.js?v=20261022-2" defer></script>
+  <script src="moments-view.js?v=20261022-2" defer></script>
+  <script src="app.js?v=20261022-2" defer></script>
+</head>
+<body>
+  <div class="app-shell" id="editorPage">
+    <header class="editor-nav"><h1>图文集赞</h1></header>
+    <main class="editor">
+      <div class="profile-row"><button id="avatarButton" class="avatar-button" aria-label="选择头像"><img id="avatarThumb" alt="当前头像"></button><input id="nickname" aria-label="昵称" maxlength="24" value="" placeholder="*请输入昵称"><button id="generate" class="green-button" disabled>发表</button></div>
+      <input id="avatarInput" type="file" accept="image/*" hidden>
+      <textarea id="content" aria-label="分享文案" maxlength="2000" placeholder="请输入要分享的文字内容"></textarea>
+      <div id="photoList" class="photo-list"></div><input id="photoInput" type="file" accept="image/*" multiple hidden>
+      <label class="source-setting">来源名称<input id="sourceName" aria-label="来源名称" type="text" maxlength="60" value="51Talk无忧英语" placeholder="留空则不显示"></label>
+      <label class="switch-row">自己点赞<input id="selfLike" type="checkbox" checked role="switch"></label>
+      <input id="likeCount" type="number" min="0" max="100" step="1" value="5" aria-label="点赞数" placeholder="点赞人数（0–100，不含自己）">
+      <section class="likes-panel" aria-label="点赞用户列表"><div class="list-heading"><h2>点赞用户列表 <span id="userCount"></span></h2><div><button id="addUser" class="green-button">添加用户</button><button id="clearUsers" class="danger-button">清空</button></div></div><div id="users" class="users"></div></section>
+      <label class="publish-label">请选择发送时间：<input id="publishAt" type="datetime-local" step="60" aria-label="发送时间"></label>
+    </main>
+  </div>
+  <section id="resultPage" aria-label="朋友圈详情" hidden><div id="momentsRoot"></div></section>
+  <dialog id="resultMenu" aria-label="详情操作"><button id="menuBack">返回配置</button><button id="menuCancel">取消</button></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="cropDialog" aria-label="移动和缩放头像"><div class="crop-nav"><button id="cancelCrop">取消</button><span>移动和缩放</span><button id="applyCrop">完成</button></div><div class="crop-stage"><canvas id="cropCanvas" width="900" height="1200" aria-label="拖动照片，双指缩放，方框内为头像"></canvas></div><div class="crop-bottom"><p>拖动调整位置 · 双指捏合缩放</p><button id="resetCrop">还原</button></div></dialog>
+</body>
+</html>
