@@ -160,7 +160,7 @@ function publicationLabel(now = Date.now()) {
   return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日 ${String(date.getHours()).padStart(2, '0')}:${String(date.getMinutes()).padStart(2, '0')}`;
 }
 function localDateValue(date) { const local = new Date(date.getTime() - date.getTimezoneOffset() * 60000); return local.toISOString().slice(0, 16); }
-$('publishAt').value = localDateValue(new Date(Date.now() - 6 * 60000));
+$('publishAt').value = localDateValue(new Date(Date.now() - (Math.floor(Math.random() * 59) + 1) * 60000));
 function fitSize(image, maxWidth, maxHeight) {
   const scale = Math.min(maxWidth / image.width, maxHeight / image.height);
   return { width: image.width * scale, height: image.height * scale };

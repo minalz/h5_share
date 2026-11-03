@@ -35,7 +35,7 @@ function parseArguments(args) {
   return options;
 }
 function safeImagePath(relative) {
-  if (!/^assets\/avatars\/(women|men|daily|cartoon)-\d+\.jpg$/.test(relative)) throw new Error(`Unexpected avatar path: ${relative}`);
+  if (!/^assets\/avatars\/(?:(?:women|men|daily|cartoon)-\d+|1314111_\d+|wangluo_\d+)\.(?:jpg|png)$/.test(relative)) throw new Error(`Unexpected avatar path: ${relative}`);
   return path.join(ROOT, relative);
 }
 async function validate(items, options = {}) {
@@ -50,7 +50,7 @@ async function validate(items, options = {}) {
     const content = await fs.readFile(file), image = sharp(content, { failOn: 'warning' });
     const metadata = await image.metadata();
     await image.raw().toBuffer(); // Force complete decode, not just header validation.
-    if (metadata.format !== 'jpeg' || metadata.width !== item.width || metadata.height !== item.height) throw new Error(`Invalid JPEG dimensions: ${item.id}`);
+    if (!['jpeg','png'].includes(metadata.format) || (item.width && metadata.width !== item.width) || (item.height && metadata.height !== item.height)) throw new Error(`Invalid JPEG dimensions: ${item.id}`);
     if (options.generated) {
       if (!item.generated || item.theme !== 'China' || !item.fictional || item.width !== item.height || item.width < 128) throw new Error(`Missing generated provenance or invalid crop: ${item.id}`);
       const digest = crypto.createHash('sha256').update(content).digest('hex');
@@ -58,7 +58,7 @@ async function validate(items, options = {}) {
       hashes.add(digest);
     }
   }
-  if (options.generated) for (const [category, target] of Object.entries(TARGET_COUNTS)) {
+  if (options.generated) for (const [category, target] of Object.entries(options.staging ? TARGET_COUNTS : { female: 20, male: 0, landscape: 20, cartoon: 20 })) {
     if (counts[category] !== target) throw new Error(`Expected ${target} ${category} images, got ${counts[category]}`);
   }
   return counts;

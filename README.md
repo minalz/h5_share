@@ -87,3 +87,17 @@ npm run build
 ```
 
 自动测试覆盖人数同步、昵称和头像去重、头像比例、缓存恢复与竞态、独立 HTML 跳转、详情恢复、新开图文清空、按需头像加载、存储备用与超时、内容图标、无整图导出入口等逻辑。浏览器布局检查不能代替微信真机验证；实际系统状态栏和浏览器界面需在手机上核对。
+
+
+## 2026-11-03 头像精简
+
+当前运行图库为 60 张：女性 20、男性 0、风景 20、卡通 20。men 全部删除；women 原有 50 张，保留 20 张、删除 30 张，保留原文件名与图片字节。此记录替代上文旧图库数量说明。原分类比例不再能严格满足，超过 60 个自动点赞头像会使用现有的重复回退机制。
+
+
+2026-11-03: Added 20 original JPEG avatars from https://1314111.com/post/45785.html, named 1314111_01.jpg through 1314111_20.jpg. Current library: 80 images (40 female, 0 male, 20 landscape, 20 cartoon). Individual source URLs are in the avatar manifest.
+
+
+2026-11-03: Added 20 network avatars (wangluo_01 through wangluo_20), preserving original JPEG/PNG bytes; source page and image URL recorded per item in assets/avatars/manifest.json. Library now totals 100: female 44, male 2, landscape 26, cartoon 28. Sources: https://www.xdn001.com/article/50607.html , https://www.xdn001.com/article/55306.html , https://www.xdn001.com/article/56155.html , https://www.xdn001.com/article/48695.html . Third-party material; no license verification implied.
+
+
+2026-11-03: Default publish time now initializes to a random integer 1–59 minutes ago on page load; self-like checkbox defaults off. Users can still edit either setting.

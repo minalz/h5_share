@@ -21,7 +21,7 @@ async function main(){
   const manifest=JSON.parse(await fs.readFile(path.join(ROOT,'assets/avatars/manifest.json'),'utf8'));
   const files=['index.html','detail.html','detail-store.js','detail-page.js','manifest.webmanifest','styles.css','app.js','profile-cache.js','moments-view.js','assets/avatars/manifest.json'];
   for(const item of manifest){
-    if(!/^assets\/avatars\/(women|men|daily|cartoon)-\d+\.jpg$/.test(item.path))throw new Error('Unexpected avatar path: '+item.path);
+    if(!/^assets\/avatars\/(?:(?:women|men|daily|cartoon)-\d+|1314111_\d+|wangluo_\d+)\.(?:jpg|png)$/.test(item.path))throw new Error('Unexpected avatar path: '+item.path);
     files.push(item.path);
   }
   if(new Set(files).size!==files.length)throw new Error('Duplicate deployment file.');
